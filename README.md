@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[<img align="left" alt="Rivindu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+![Rivindu's github stats](https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true)
 
-</br>
-[website]: https://rivinduchamath.github.io/pro/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath)](https://github.com/rivinduchamath/github-readme-stats)
 
 
 
