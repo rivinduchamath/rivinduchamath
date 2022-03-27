@@ -6,8 +6,7 @@
 - 📫 Contact Me : rivinduchamath1000@gmail.com
 
 My Objective is to work as a Good Developer applying my knowledge in the Developing, Designing, and Maintenance to cater to
-the specific needs of the people. I wish to work in a team of motivated individuals who wish to work towards the
-advancement of the company and its goals.
+the specific needs of the people. I wish to work in a team of motivated individuals who wish to work towards the advancement of the goals.
 
 ## 🤝 Connect with me:
 
