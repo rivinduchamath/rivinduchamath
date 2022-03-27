@@ -1,4 +1,4 @@
-# Hey  !!! 👋  I'm [Rivindu Wijayarathna][website] 
+# Hey  !!! 👋  I'm [Rivindu Wijayarathna][website]  <img align="right" src="https://komarev.com/ghpvc/?username=rivinduchamath" alt="Rivindu Wijayarathna" />
 
 ### I like to Code and help Others !!!
 
