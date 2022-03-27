@@ -21,7 +21,6 @@ Personal Web Site Link [<img align="left" alt="contact | Web Site" src="https://
 
 ## 📝‍💻 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="ee" width="80" height="50"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="typescript" width="80" height="50"/> </a>
