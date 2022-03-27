@@ -19,8 +19,6 @@ Personal Web Site Link [<img align="left" alt="contact | Web Site" src="https://
 | <a href="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="rivindu's github stats" /></a> | <a href="https://github.com/rivinduchamath/rivinduchamath"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br />
-
 ## 📝‍💻 Languages and Tools
 
 <h3 align="left">Languages and Tools:</h3>
