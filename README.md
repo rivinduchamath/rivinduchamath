@@ -1,11 +1,13 @@
-# Hey  !!! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=rivinduchamath" alt="Rivindu Wijayarathna" />  I'm [Rivindu Wijayarathna][website]
+# Hey  !!! 👋  I'm [Rivindu Wijayarathna][website] 
 
 ### I like to Code and help Others !!!
 
 - 🔭 I’m currently final year(4th year) undergraduate 🎓 at Sri Lanka Institute of Information Technology.
-- 📫 Contact Me : rivinduchamath1000@gmail.com
+- 📫 Contact Me : 0778799940
 
-My Objective is to work as a Good Developer applying my knowledge in the Developing, Designing, and Maintenance to cater to the specific needs of the people. 
+My Objective is to work as a Good Developer applying my knowledge in the Developing, Designing, and Maintenance to cater to
+the specific needs of the people. I wish to work in a team of motivated individuals who wish to work towards the
+advancement of the company and its goals.
 
 ## 🤝 Connect with me:
 
@@ -42,7 +44,7 @@ Personal Web Site Link: [<img align="left" alt="contact | Web Site" src="https:/
 <br />
 
 
-| <a href="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Sajee's github stats" /></a> | <a href="https://github.com/rivinduchamath/rivinduchamath"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="rivindu's github stats" /></a> | <a href="https://github.com/rivinduchamath/rivinduchamath"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
