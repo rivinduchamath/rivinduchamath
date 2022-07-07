@@ -29,3 +29,14 @@ advancement of the goals.
 
 
 [website]: https://rivinduchamath.github.io/pro/
+
+  <div>
+    <a href="#"><img alt="Rivindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rivinduchamath&custom_title=Rivindu%20Chamath's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rivinduchamath&column=8&theme=onedark" />
+</div>
+<br/>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
