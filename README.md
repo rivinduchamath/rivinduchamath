@@ -32,7 +32,6 @@ advancement of the goals.
 
   <div>
     <a href="#"><img alt="Rivindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rivinduchamath&custom_title=Rivindu%20Chamath's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
 </div>
    
 <div align="center">
