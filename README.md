@@ -21,7 +21,6 @@ advancement of the goals.
     <a href="#"><img alt="Rivindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    
   </div>
-| ------------- | ------------- |
 
 
 ## 📝‍💻 Languages and Tools
