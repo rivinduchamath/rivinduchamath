@@ -37,7 +37,7 @@ advancement of the goals.
 
    
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rivinduchamath&column=8&theme=onedark" />
+  <img align="center" style="alignment: center; left: 0; right: 0; position: absolute" src="https://github-profile-trophy.vercel.app/?username=rivinduchamath&column=8&theme=onedark" />
 </div>
 <br/>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
