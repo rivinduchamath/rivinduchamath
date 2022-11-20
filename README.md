@@ -3,8 +3,8 @@
 ### I like to Code and help Others !!!
 
 - 🔭 Programmer | CryptoInvestor | C.MarketAnalyzer | OnlineEntrepreneur | GraphicDesigner
-- 🎉 Interest In - Block Chain , Meta verse, Cryptocurrency, E-Selling, Ai Base online Marketing, Designing, Human-Robotics, NFT, Agriculture, 
-  Reading Books(Entrepreneurship, Business, Money,Case Study), Listen to the sermon. 
+- ❤ Interest In - Block Chain , Meta verse, Cryptocurrency, E-Selling, Ai Base online Marketing, Designing, Human-Robotics,
+     NFT, Agriculture, Reading Books(Entrepreneurship, Business, Money,Case Study), Listen to the sermon. 
 - 📫 Contact Me : rivinduchamath1000@gmail.com
 - 🌱 Ask me about Java based technolgies I'm happy to help
 
