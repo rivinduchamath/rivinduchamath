@@ -2,7 +2,7 @@
 
 ### I like to Code and help Others !!!
 
-- 🔭 I’m currently final year(4th year) undergraduate 🎓 at Sri Lanka Institute of Information Technology.
+- 🔭 Programmer | CryptoInvestor | C.MarketAnalyzer | OnlineEntrepreneur | GraphicDesigner
 - 📫 Contact Me : rivinduchamath1000@gmail.com
 - 🌱 Ask me about Java based technolgies I'm happy to help
 
