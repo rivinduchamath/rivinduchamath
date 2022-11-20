@@ -21,7 +21,7 @@ advancement of the goals.
     <a href="#"><img alt="Rivindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&langs_count=16&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    
   </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivinduchamath&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="rivinduchamath" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivinduchamath&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="rivinduchamath" /></p>
 
 ## 📝‍💻 Languages and Tools
 
