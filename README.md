@@ -36,7 +36,7 @@ advancement of the goals.
 
 
    
-<div align="center">
+<div align="center" style="alignment: center; left: 0; right: 0; position: absolute">
   <img align="center" style="alignment: center; left: 0; right: 0; position: absolute" src="https://github-profile-trophy.vercel.app/?username=rivinduchamath&column=8&theme=onedark" />
 </div>
 <br/>
