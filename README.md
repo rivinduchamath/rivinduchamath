@@ -18,7 +18,7 @@ advancement of the goals.
 
 <br />
   <div align="center">
-    <a href="#"><img alt="Rivindu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Rivindu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Rivindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath&langs_count=16&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    
   </div>
